@@ -1,0 +1,10 @@
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\bin\Debug\AssingmentEntityFramework.exe.config
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\bin\Debug\AssingmentEntityFramework.exe
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\bin\Debug\AssingmentEntityFramework.pdb
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\bin\Debug\EntityFramework.dll
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\bin\Debug\EntityFramework.xml
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\obj\Debug\AssingmentEntityFramework.csprojResolveAssemblyReference.cache
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\obj\Debug\AssingmentEntityFramework.exe
+E:\1 BASIS lecture\AssingmentEntityFramework\AssingmentEntityFramework\obj\Debug\AssingmentEntityFramework.pdb
